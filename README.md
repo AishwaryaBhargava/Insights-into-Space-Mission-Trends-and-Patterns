@@ -76,7 +76,7 @@ Dataset link: [Space Missions Dataset](https://www.kaggle.com/datasets/mysarahma
 
 ## Report
 
-A detailed project report is available in [IV_Final_Report.pdf](IV_Final_Report.pdf), covering:
+A detailed project report is available in IV_Final_Report.pdf, covering:
 - Data preprocessing steps.
 - Methodologies and tools used.
 - Findings and interpretations.
